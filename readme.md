@@ -2,7 +2,7 @@
 
 This study proposes an innovative method to improve geological object recognition by leveraging legend data for data augmentation and using transfer learning with EfficientNet. The approach enhances model performance, particularly for texture-rich datasets, by increasing data diversity and reducing training time, leading to more accurate and efficient geological feature classification.
 
-
+### folder ###
 */data/input* data after text removal
 
 */data/input* data after data overlays and data augmentation
@@ -13,6 +13,7 @@ This study proposes an innovative method to improve geological object recognitio
 
 */model* saved model
 
+### files ###
 **EfficientNet.py** EfficientNet model
 
 **data_augmentation.py** Data augmentation processing
